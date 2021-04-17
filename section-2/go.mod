@@ -1,3 +1,3 @@
-module go-the-complete-developers-guide-section-1
+module go-the-complete-developers-guide-section-2
 
 go 1.16
